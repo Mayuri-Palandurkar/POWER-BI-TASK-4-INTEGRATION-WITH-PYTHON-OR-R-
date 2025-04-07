@@ -36,5 +36,4 @@ The visual highlights fluctuations and growth in monthly sales.
 **OUTPUT**:
 Successfully displayed a dynamic line chart showing sales performance over time, enhancing the analytical depth beyond standard Power BI visuals.
 
-
-
+![Image](https://github.com/user-attachments/assets/9bfc96c8-10a6-42f7-a528-55c6680711f3)
